@@ -11,26 +11,21 @@ The main task is to find the optimal number of segments and segment attributes s
 
 
 ### Partner
-Ansam Zedan
-Franco Pallitto
-Özgün Haznedar
+Ansam Zedan * Franco Pallitto * Özgün Haznedar
 
 ### Methods Used
-* Inferential Statistics
+* Exploratory Data Analysis 
 * Machine Learning
 * Data Visualization
 * Predictive Modeling
-* etc.
+
 
 ### Technologies
-* R
+
 * Python
-* D3
-* PostGres, MySql
 * Pandas, jupyter
-* HTML
-* JavaScript
-* etc.
+* Sklearn
+
 
 ## Project Description
 (Provide more detailed overview of the project.
