@@ -1,38 +1,31 @@
-# Project Name
-
-example image:
-
+# Customer Segmentation based on credit card data
 
 ![alternative text](reports/img/pic01.jpg)
 
 
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: [ Completed]
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is to find customer segments from the credit card data which shows different attributes of 8500 clients. 
+The main task is to find the optimal number of segments and segment attributes so that the business may target specific segments in marketing campaings. 
+
 
 ### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact]
-* If you do not have a partner leave this section out
+Ansam Zedan * Franco Pallitto * Özgün Haznedar
 
 ### Methods Used
-* Inferential Statistics
+* Exploratory Data Analysis 
 * Machine Learning
 * Data Visualization
 * Predictive Modeling
-* etc.
+
 
 ### Technologies
-* R
+
 * Python
-* D3
-* PostGres, MySql
 * Pandas, jupyter
-* HTML
-* JavaScript
-* etc.
+* Sklearn
+
 
 ## Project Description
 (Provide more detailed overview of the project.
