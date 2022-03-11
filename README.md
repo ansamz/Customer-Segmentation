@@ -1,12 +1,9 @@
-# Project Name
-
-example image:
-
+# Customer Segmentation based on credit card data
 
 ![alternative text](reports/img/pic01.jpg)
 
 
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: [ Completed]
 
 ## Project Intro/Objective
 The purpose of this project is ________. (Describe the main goals of the project. Limit to a short paragraph, 3-6 Sentences)
